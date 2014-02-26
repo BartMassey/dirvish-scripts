@@ -1,0 +1,11 @@
+lost+found/
+core
+*~
+.nfs*
+#*
+,*
+/mnt
+/tmp
+/var/tmp
+*.bak
+var/cache
