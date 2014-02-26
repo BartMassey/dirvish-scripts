@@ -1,4 +1,8 @@
 #!/bin/sh
+# Copyright © 2014 Bart Massey
+# [This work is licensed under the Open Software License v. 2.0]
+# Please see the file COPYING in the source
+# distribution of this software for license terms.
 # How to use this script:
 #   * Create default-confs/<host>-<fs>-default.conf
 #   * Mount the backup drive on /mnt/backup-tmp via
