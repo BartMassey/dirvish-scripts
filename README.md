@@ -1,4 +1,5 @@
 # Dirvish scripts
+Copyright © 2014 Bart Massey
 
 These scripts provide a usable setup of the
 [Dirvish](http://dirvish.org) backup system for UNIX/Linux
@@ -24,3 +25,7 @@ generalization and automation to make them usable by others.
 
 I expect to correct that problem shortly. In the meantime,
 I wanted to get the scripting up.
+
+This work is available under the Open Software License
+v. 2.0. Please see the file COPYING in this distribution for
+license details.
